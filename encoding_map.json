@@ -13,6 +13,12 @@
         "SIN ESPECIFICAR": 1,
         "URBANA": 2
     },
+    "STATUS": {
+        "ABIERTA": 0,
+        "CERRADA TEMPORALMENTE": 1,
+        "TEMPORAL NOMBRAMIENTO": 2,
+        "TEMPORAL TITULOS": 3
+    },
     "MODALIDAD": {
         "BILINGUE": 0,
         "MONOLINGUE": 1
